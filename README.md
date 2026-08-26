@@ -69,5 +69,4 @@ or `just test`.
 This project is for **security education and defense only**. Use it solely to
 evaluate and harden models you own or are authorized to test. It operates on
 synthetic data and performs no network or production activity. Do not use
-these techniques against live ML services without explicit written
-authorization.
+these techniques against live ML services without explicit written authorization.
